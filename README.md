@@ -12,4 +12,5 @@ npx hardhat node
 ```bash
 npm run l2:test
 npm run strings:test
+npm run assembly:test
 ```
