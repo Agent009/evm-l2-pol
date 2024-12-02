@@ -8,7 +8,8 @@
     "test": "hardhat test",
     "hh:accounts": "hardhat accounts",
     "hh:clean": "hardhat clean",
-    "l2:test": "hardhat run ./scripts/TestL2.ts"
+    "l2:test": "hardhat run ./scripts/TestL2.ts",
+    "strings:test": "hardhat run ./scripts/StringUtilsTest/Test.ts"
   },
   "author": "Mohammad Amir <amir@connextar.com>",
   "license": "ISC",
