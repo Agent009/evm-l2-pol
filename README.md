@@ -1,5 +1,9 @@
 # EVM L2 Polygon
 
+* Deploying to Polygon **Amoi** testnet
+* Testing string functions
+* Experimenting with assembly code
+
 ```shell
 npx hardhat help
 npx hardhat test
